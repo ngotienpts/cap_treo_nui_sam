@@ -1,0 +1,278 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 29 Aug 2024 13:58:51 at https://captreonuisam.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://captreonuisam.com/ -O1 "C:\Users\admin\Desktop\examples\captreo" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:03:20	Error: 	"Bad Request" (400) at link www.googletagmanager.com/gtm.js?id= (from https://captreonuisam.com/)
+14:06:01	Error: 	"Not Found" (404) at link https://captreonuisam.com/cong-ty-co-phan-mga-viet-nam-dang-tai-tro-mot-phan-cho-giai-bong-da-hoc-sinh-sinh-vien-cua-bao-thanh-nien-va-giai-chay-bo-marathon-cua-bao-vnexpress-tren-toan-quoc/ (from https://captreonuisam.com/)
+14:06:01	Error: 	"Not Found" (404) at link https://captreonuisam.com/check-in-ngay-nhan-qua-lien-tay-tai-khu-du-lich-cap-treo-nui-sam/ (from https://captreonuisam.com/)
+14:11:54	Error: 	"Not Found" (404) at link https://captreonuisam.com/https:/captreonuisam.com/wp-content/uploads/2024/02/2024-02-24-10.45.45.jpg (from https://captreonuisam.com/)
+14:11:54	Error: 	"Not Found" (404) at link https://captreonuisam.com/https:/captreonuisam.com/wp-content/uploads/2024/02/2024-02-24-10.45.40-e1708746722233.jpg (from https://captreonuisam.com/)
+14:11:54	Error: 	"Not Found" (404) at link https://captreonuisam.com/https:/captreonuisam.com/wp-content/uploads/2024/02/photo1707465426.jpeg (from https://captreonuisam.com/)
+14:11:54	Error: 	"Not Found" (404) at link https://captreonuisam.com/https:/captreonuisam.com/wp-content/uploads/2024/02/3-17074603158784081036.webp (from https://captreonuisam.com/)
+14:11:55	Error: 	"Not Found" (404) at link https://captreonuisam.com/https:/captreonuisam.com/wp-content/uploads/2024/02/img_20210421_091237.jpg (from https://captreonuisam.com/)
+14:11:55	Error: 	"Not Found" (404) at link https://captreonuisam.com/https:/captreonuisam.com/wp-content/uploads/2024/01/cap-treo-nui-sam-tet-11.jpg (from https://captreonuisam.com/)
+14:11:55	Error: 	"Not Found" (404) at link https://captreonuisam.com/https:/captreonuisam.com/wp-content/uploads/2024/01/cap-treo-nui-sam-tet-2.jpg (from https://captreonuisam.com/)
+14:11:55	Error: 	"Not Found" (404) at link https://captreonuisam.com/https:/captreonuisam.com/wp-content/uploads/2024/01/cap-treo-nui-sam-tet-9.jpg (from https://captreonuisam.com/)
+14:11:55	Error: 	"Not Found" (404) at link https://captreonuisam.com/https:/captreonuisam.com/wp-content/uploads/2024/02/Cap-treo-Nui-Sam-27.jpg (from https://captreonuisam.com/)
+14:11:55	Error: 	"Not Found" (404) at link https://captreonuisam.com/https:/captreonuisam.com/wp-content/uploads/2024/02/Cap-treo-Nui-Sam-9.jpg (from https://captreonuisam.com/)
+14:11:55	Error: 	"Not Found" (404) at link https://captreonuisam.com/https:/captreonuisam.com/wp-content/uploads/2024/02/Cap-treo-Nui-Sam-11.jpg (from https://captreonuisam.com/)
+14:11:55	Error: 	"Not Found" (404) at link https://captreonuisam.com/https:/captreonuisam.com/wp-content/uploads/2024/02/photo1707465619.jpeg (from https://captreonuisam.com/)
+14:11:55	Error: 	"Not Found" (404) at link https://captreonuisam.com/https:/captreonuisam.com/wp-content/uploads/2024/01/cap-treo-nui-sam-7.jpg (from https://captreonuisam.com/)
+14:11:55	Error: 	"Not Found" (404) at link https://captreonuisam.com/https:/captreonuisam.com/wp-content/uploads/2024/01/cap-treo-nui-sam-6.jpg (from https://captreonuisam.com/)
+14:11:55	Error: 	"Not Found" (404) at link https://captreonuisam.com/https:/captreonuisam.com/wp-content/uploads/2024/01/den-thuyet-phap.jpg (from https://captreonuisam.com/)
+14:11:55	Error: 	"Not Found" (404) at link https://captreonuisam.com/https:/captreonuisam.com/wp-content/uploads/2024/02/Cap-treo-Nui-Sam-6.jpg (from https://captreonuisam.com/)
+14:11:55	Error: 	"Not Found" (404) at link https://captreonuisam.com/https:/captreonuisam.com/wp-content/uploads/2024/01/captreo.jpg (from https://captreonuisam.com/)
+14:11:55	Error: 	"Not Found" (404) at link https://captreonuisam.com/https:/captreonuisam.com/wp-content/uploads/2024/02/photo1707465364.jpeg (from https://captreonuisam.com/)
+14:11:55	Error: 	"Not Found" (404) at link https://captreonuisam.com/https:/captreonuisam.com/wp-content/uploads/2024/02/mieu-ba-chua-xu-nui-sam.jpg (from https://captreonuisam.com/)
+14:11:55	Error: 	"Not Found" (404) at link https://captreonuisam.com/https:/captreonuisam.com/wp-content/uploads/2024/02/Nui-Sam-2.jpg (from https://captreonuisam.com/)
+14:11:55	Error: 	"Not Found" (404) at link https://captreonuisam.com/https:/captreonuisam.com/wp-content/uploads/2024/01/cap-treo-nui-sam-tet-7.jpg (from https://captreonuisam.com/)
+14:11:55	Error: 	"Not Found" (404) at link https://captreonuisam.com/https:/captreonuisam.com/wp-content/uploads/2024/01/cap-treo-nui-sam-tet-8.jpg (from https://captreonuisam.com/)
+14:11:55	Error: 	"Not Found" (404) at link https://captreonuisam.com/https:/captreonuisam.com/wp-content/uploads/2024/01/cap-treo-nui-sam-tet-6.jpg (from https://captreonuisam.com/)
+14:11:55	Error: 	"Not Found" (404) at link https://captreonuisam.com/https:/captreonuisam.com/wp-content/uploads/2024/02/Cap-treo-Nui-Sam-19.jpg (from https://captreonuisam.com/)
+14:11:55	Error: 	"Not Found" (404) at link https://captreonuisam.com/https:/captreonuisam.com/wp-content/uploads/2024/02/Cap-treo-Nui-Sam-24.jpg (from https://captreonuisam.com/)
+14:11:55	Error: 	"Not Found" (404) at link https://captreonuisam.com/https:/captreonuisam.com/wp-content/uploads/2024/02/Cap-treo-Nui-Sam-7.jpg (from https://captreonuisam.com/)
+14:16:38	Error: 	"Bad Request" (400) at link https://captreonuisam.com/wp-admin/admin-ajax.php?action=rest-nonce (from https://captreonuisam.com/)
+14:16:39	Warning: 	Moved Permanently for https://captreonuisam.com/?p=3558
+14:16:39	Warning: 	File has moved from https://captreonuisam.com/?p=3558 to https://captreonuisam.com/hu-thuc-chuyen-nguoi-rung-o-nui-cam/
+14:16:39	Error: 	"Method Not Allowed" (405) at link https://captreonuisam.com/xmlrpc.php (from https://captreonuisam.com/hu-thuc-chuyen-nguoi-rung-o-nui-cam/)
+14:17:48	Warning: 	Moved Permanently for https://captreonuisam.com/author/hongngoc/
+14:17:48	Warning: 	File has moved from https://captreonuisam.com/author/hongngoc/ to https://captreonuisam.com
+14:17:48	Warning: 	Moved Permanently for https://captreonuisam.com/?p=3554
+14:17:48	Warning: 	File has moved from https://captreonuisam.com/?p=3554 to https://captreonuisam.com/huyen-thoai-ve-nghiet-suc-an-minh-duoi-dong-vam-nao/
+14:17:57	Warning: 	Moved Permanently for https://captreonuisam.com/?p=3544
+14:17:57	Warning: 	File has moved from https://captreonuisam.com/?p=3544 to https://captreonuisam.com/chua-hang-chau-doc-chon-tam-linh-noi-tieng-voi-doi-ran-than-khong-lo/
+14:17:57	Warning: 	Moved Permanently for https://captreonuisam.com/?p=3539
+14:17:57	Warning: 	File has moved from https://captreonuisam.com/?p=3539 to https://captreonuisam.com/kinh-nghiem-hanh-huong-vieng-mieu-ba-chua-xu-nui-sam/
+14:17:57	Warning: 	Moved Permanently for https://captreonuisam.com/?p=1235
+14:17:57	Warning: 	File has moved from https://captreonuisam.com/?p=1235 to https://captreonuisam.com/gioi-thieu/
+14:17:57	Warning: 	Moved Permanently for https://captreonuisam.com/?p=2176
+14:17:57	Warning: 	File has moved from https://captreonuisam.com/?p=2176 to https://captreonuisam.com/nui-sam-chau-doc/
+14:17:57	Warning: 	Moved Permanently for https://captreonuisam.com/?p=2170
+14:17:57	Warning: 	File has moved from https://captreonuisam.com/?p=2170 to https://captreonuisam.com/ba-chua-xu/
+14:17:57	Warning: 	Moved Permanently for https://captreonuisam.com/?p=3448
+14:17:57	Warning: 	File has moved from https://captreonuisam.com/?p=3448 to https://captreonuisam.com/tam-linh-ky-bi/
+14:18:31	Warning: 	Moved Permanently for https://captreonuisam.com/?p=1697
+14:18:31	Warning: 	File has moved from https://captreonuisam.com/?p=1697 to https://captreonuisam.com/danh-thang/
+14:18:39	Warning: 	Moved Permanently for https://captreonuisam.com/?p=1251
+14:18:39	Warning: 	File has moved from https://captreonuisam.com/?p=1251 to https://captreonuisam.com/tin-tuc/
+14:20:29	Warning: 	Moved Permanently for https://captreonuisam.com/?p=3621
+14:20:29	Warning: 	File has moved from https://captreonuisam.com/?p=3621 to https://captreonuisam.com/product/ve-khu-hoi-cap-treo-nui-sam/
+14:20:50	Warning: 	Moved Permanently for https://captreonuisam.com/?p=2235
+14:20:50	Warning: 	File has moved from https://captreonuisam.com/?p=2235 to https://captreonuisam.com/dinh-nui-sam-noi-dau-tien-ba-ngu/
+14:20:50	Warning: 	Moved Permanently for https://captreonuisam.com/?p=2232
+14:20:50	Warning: 	File has moved from https://captreonuisam.com/?p=2232 to https://captreonuisam.com/truyen-thuyet-ba-chua-xu-nui-sam/
+14:20:50	Warning: 	Moved Permanently for https://captreonuisam.com/?p=2239
+14:20:50	Warning: 	File has moved from https://captreonuisam.com/?p=2239 to https://captreonuisam.com/tron-ven-hanh-trinh-vieng-ba-chua-xu/
+14:20:50	Warning: 	Moved Permanently for https://captreonuisam.com/?p=1724
+14:20:50	Warning: 	File has moved from https://captreonuisam.com/?p=1724 to https://captreonuisam.com/be-ba-chua-xu-tren-dinh-nui-sam/
+14:20:50	Warning: 	Moved Permanently for https://captreonuisam.com/author/duongvo/
+14:20:50	Warning: 	File has moved from https://captreonuisam.com/author/duongvo/ to https://captreonuisam.com
+14:20:50	Warning: 	Moved Permanently for https://captreonuisam.com/?p=1709
+14:20:50	Warning: 	File has moved from https://captreonuisam.com/?p=1709 to https://captreonuisam.com/phat-ngoc-hoa-binh-the-gioi-tren-dinh-nui-sam/
+14:20:50	Warning: 	Moved Permanently for https://captreonuisam.com/?p=1745
+14:20:50	Warning: 	File has moved from https://captreonuisam.com/?p=1745 to https://captreonuisam.com/nha-ga-cap-treo-nui-sam/
+14:20:50	Warning: 	Moved Permanently for https://captreonuisam.com/?p=2192
+14:20:50	Warning: 	File has moved from https://captreonuisam.com/?p=2192 to https://captreonuisam.com/su-kien/
+14:20:50	Warning: 	Moved Permanently for https://captreonuisam.com/?p=3519
+14:20:50	Warning: 	File has moved from https://captreonuisam.com/?p=3519 to https://captreonuisam.com/runner-giai-an-giang-dau-chan-huyen-bi-trai-nghiem-du-lich-nui-sam/
+14:20:50	Warning: 	Moved Permanently for https://captreonuisam.com/?p=3267
+14:20:50	Warning: 	File has moved from https://captreonuisam.com/?p=3267 to https://captreonuisam.com/mga-viet-nam-tai-tro-giai-bong-da-va-giai-chay/
+14:20:50	Warning: 	Moved Permanently for https://captreonuisam.com/?p=2825
+14:20:50	Warning: 	File has moved from https://captreonuisam.com/?p=2825 to https://captreonuisam.com/chuong-trinh-lo-to-show-tai-kdl-cap-treo-nui-sam/
+14:20:50	Warning: 	Moved Permanently for https://captreonuisam.com/?p=2546
+14:20:50	Warning: 	File has moved from https://captreonuisam.com/?p=2546 to https://captreonuisam.com/chuong-trinh-nhac-nuoc-tai-kdl-cap-treo-nui-sam/
+14:20:50	Warning: 	Moved Permanently for https://captreonuisam.com/?p=1983
+14:20:50	Warning: 	File has moved from https://captreonuisam.com/?p=1983 to https://captreonuisam.com/khuyen-mai-nhan-qua-tai-kdl-cap-treo-nui-sam/
+14:20:50	Error: 	"Not Found" (404) at link https://captreonuisam.com/khuyen-mai-nhan-qua-tai-kdl-cap-treo-nui-sam/https:/captreonuisam.com/wp-content/uploads/2024/02/Checkin-1.jpg (from https://captreonuisam.com/khuyen-mai-nhan-qua-tai-kdl-cap-treo-nui-sam/)
+14:20:50	Error: 	"Not Found" (404) at link https://captreonuisam.com/khuyen-mai-nhan-qua-tai-kdl-cap-treo-nui-sam/https:/captreonuisam.com/wp-content/uploads/2024/02/Checkin-6.jpg (from https://captreonuisam.com/khuyen-mai-nhan-qua-tai-kdl-cap-treo-nui-sam/)
+14:20:50	Error: 	"Not Found" (404) at link https://captreonuisam.com/khuyen-mai-nhan-qua-tai-kdl-cap-treo-nui-sam/https:/captreonuisam.com/wp-content/uploads/2024/02/Cap-treo-Nui-Sam-26.jpg (from https://captreonuisam.com/khuyen-mai-nhan-qua-tai-kdl-cap-treo-nui-sam/)
+14:20:50	Error: 	"Not Found" (404) at link https://captreonuisam.com/khuyen-mai-nhan-qua-tai-kdl-cap-treo-nui-sam/https:/captreonuisam.com/wp-content/uploads/2024/02/Checkin-4.jpg (from https://captreonuisam.com/khuyen-mai-nhan-qua-tai-kdl-cap-treo-nui-sam/)
+14:20:50	Error: 	"Not Found" (404) at link https://captreonuisam.com/khuyen-mai-nhan-qua-tai-kdl-cap-treo-nui-sam/https:/captreonuisam.com/wp-content/uploads/2024/02/Cap-treo-Nui-Sam-27.jpg (from https://captreonuisam.com/khuyen-mai-nhan-qua-tai-kdl-cap-treo-nui-sam/)
+14:20:50	Error: 	"Not Found" (404) at link https://captreonuisam.com/khuyen-mai-nhan-qua-tai-kdl-cap-treo-nui-sam/https:/captreonuisam.com/wp-content/uploads/2024/02/Cap-treo-Nui-Sam-28.jpg (from https://captreonuisam.com/khuyen-mai-nhan-qua-tai-kdl-cap-treo-nui-sam/)
+14:20:50	Error: 	"Not Found" (404) at link https://captreonuisam.com/khuyen-mai-nhan-qua-tai-kdl-cap-treo-nui-sam/https:/captreonuisam.com/wp-content/uploads/2024/02/Cap-treo-Nui-Sam-9.jpg (from https://captreonuisam.com/khuyen-mai-nhan-qua-tai-kdl-cap-treo-nui-sam/)
+14:20:50	Error: 	"Not Found" (404) at link https://captreonuisam.com/khuyen-mai-nhan-qua-tai-kdl-cap-treo-nui-sam/https:/captreonuisam.com/wp-content/uploads/2024/02/Cap-treo-Nui-Sam-11.jpg (from https://captreonuisam.com/khuyen-mai-nhan-qua-tai-kdl-cap-treo-nui-sam/)
+14:20:50	Error: 	"Not Found" (404) at link https://captreonuisam.com/khuyen-mai-nhan-qua-tai-kdl-cap-treo-nui-sam/https:/captreonuisam.com/wp-content/uploads/2024/02/photo1707465619.jpeg (from https://captreonuisam.com/khuyen-mai-nhan-qua-tai-kdl-cap-treo-nui-sam/)
+14:20:50	Error: 	"Not Found" (404) at link https://captreonuisam.com/khuyen-mai-nhan-qua-tai-kdl-cap-treo-nui-sam/https:/captreonuisam.com/wp-content/uploads/2024/02/Cap-treo-Nui-Sam-29.jpg (from https://captreonuisam.com/khuyen-mai-nhan-qua-tai-kdl-cap-treo-nui-sam/)
+14:20:50	Error: 	"Not Found" (404) at link https://captreonuisam.com/khuyen-mai-nhan-qua-tai-kdl-cap-treo-nui-sam/https:/captreonuisam.com/wp-content/uploads/2024/02/Cap-treo-Nui-Sam-6.jpg (from https://captreonuisam.com/khuyen-mai-nhan-qua-tai-kdl-cap-treo-nui-sam/)
+14:20:50	Error: 	"Not Found" (404) at link https://captreonuisam.com/khuyen-mai-nhan-qua-tai-kdl-cap-treo-nui-sam/https:/captreonuisam.com/wp-content/uploads/2024/02/Cap-treo-Nui-Sam-19.jpg (from https://captreonuisam.com/khuyen-mai-nhan-qua-tai-kdl-cap-treo-nui-sam/)
+14:20:50	Warning: 	Moved Permanently for https://captreonuisam.com/?p=3400
+14:20:50	Warning: 	File has moved from https://captreonuisam.com/?p=3400 to https://captreonuisam.com/kham-pha-lang-thoai-ngoc-hau-tuyet-tac-kien-truc/
+14:20:50	Warning: 	Moved Permanently for https://captreonuisam.com/?p=2416
+14:20:50	Warning: 	File has moved from https://captreonuisam.com/?p=2416 to https://captreonuisam.com/kdl-cap-treo-nui-sam-tro-thanh-boi-canh-lam-phim/
+14:20:50	Warning: 	Moved Permanently for https://captreonuisam.com/?p=2495
+14:20:50	Warning: 	File has moved from https://captreonuisam.com/?p=2495 to https://captreonuisam.com/rapper-soc-nau-di-cap-treo-tren-dinh-nui-sam-dip-tet/
+14:20:50	Warning: 	Moved Permanently for https://captreonuisam.com/?p=2403
+14:20:50	Warning: 	File has moved from https://captreonuisam.com/?p=2403 to https://captreonuisam.com/den-khu-du-lich-cap-treo-nui-sam-via-ba-chua-xu/
+14:20:50	Warning: 	Moved Permanently for https://captreonuisam.com/?p=2422
+14:20:50	Warning: 	File has moved from https://captreonuisam.com/?p=2422 to https://captreonuisam.com/valentine-tai-cau-tinh-yeu-tren-dinh-nui-sam/
+14:20:50	Warning: 	Moved Permanently for https://captreonuisam.com/?p=2397
+14:20:50	Warning: 	File has moved from https://captreonuisam.com/?p=2397 to https://captreonuisam.com/cap-treo-nui-sam-phuc-vu-du-khach-xuyen-dem/
+14:20:50	Error: 	"Forbidden" (403) at link https://images.baoangiang.com.vn/image/fckeditor/upload/2024/20240213/images/1.jpg (from https://captreonuisam.com/cap-treo-nui-sam-phuc-vu-du-khach-xuyen-dem/)
+14:20:50	Error: 	"Forbidden" (403) at link https://images.baoangiang.com.vn/image/fckeditor/upload/2024/20240213/images/2.jpg (from https://captreonuisam.com/cap-treo-nui-sam-phuc-vu-du-khach-xuyen-dem/)
+14:20:50	Error: 	"Forbidden" (403) at link https://images.baoangiang.com.vn/image/fckeditor/upload/2024/20240213/images/3.jpg (from https://captreonuisam.com/cap-treo-nui-sam-phuc-vu-du-khach-xuyen-dem/)
+14:20:50	Error: 	"Forbidden" (403) at link https://images.baoangiang.com.vn/image/fckeditor/upload/2024/20240213/images/4.jpg (from https://captreonuisam.com/cap-treo-nui-sam-phuc-vu-du-khach-xuyen-dem/)
+14:20:50	Error: 	"Forbidden" (403) at link https://images.baoangiang.com.vn/image/fckeditor/upload/2024/20240213/images/4_1.jpg (from https://captreonuisam.com/cap-treo-nui-sam-phuc-vu-du-khach-xuyen-dem/)
+14:20:50	Error: 	"Forbidden" (403) at link https://images.baoangiang.com.vn/image/fckeditor/upload/2024/20240213/images/5.jpg (from https://captreonuisam.com/cap-treo-nui-sam-phuc-vu-du-khach-xuyen-dem/)
+14:20:50	Error: 	"Forbidden" (403) at link https://images.baoangiang.com.vn/image/fckeditor/upload/2024/20240213/images/6.jpg (from https://captreonuisam.com/cap-treo-nui-sam-phuc-vu-du-khach-xuyen-dem/)
+14:20:50	Error: 	"Forbidden" (403) at link https://images.baoangiang.com.vn/image/fckeditor/upload/2024/20240213/images/7.jpg (from https://captreonuisam.com/cap-treo-nui-sam-phuc-vu-du-khach-xuyen-dem/)
+14:20:50	Error: 	"Forbidden" (403) at link https://images.baoangiang.com.vn/image/fckeditor/upload/2024/20240213/images/8.jpg (from https://captreonuisam.com/cap-treo-nui-sam-phuc-vu-du-khach-xuyen-dem/)
+14:20:50	Error: 	"Forbidden" (403) at link https://images.baoangiang.com.vn/image/fckeditor/upload/2024/20240213/images/9.jpg (from https://captreonuisam.com/cap-treo-nui-sam-phuc-vu-du-khach-xuyen-dem/)
+14:20:50	Error: 	"Forbidden" (403) at link https://images.baoangiang.com.vn/image/fckeditor/upload/2024/20240213/images/10.jpg (from https://captreonuisam.com/cap-treo-nui-sam-phuc-vu-du-khach-xuyen-dem/)
+14:20:50	Error: 	"Forbidden" (403) at link https://images.baoangiang.com.vn/image/fckeditor/upload/2024/20240213/images/11.jpg (from https://captreonuisam.com/cap-treo-nui-sam-phuc-vu-du-khach-xuyen-dem/)
+14:20:50	Error: 	"Forbidden" (403) at link https://images.baoangiang.com.vn/image/fckeditor/upload/2024/20240213/images/12.jpg (from https://captreonuisam.com/cap-treo-nui-sam-phuc-vu-du-khach-xuyen-dem/)
+14:20:50	Error: 	"Forbidden" (403) at link https://images.baoangiang.com.vn/image/fckeditor/upload/2024/20240213/images/14.jpg (from https://captreonuisam.com/cap-treo-nui-sam-phuc-vu-du-khach-xuyen-dem/)
+14:20:50	Error: 	"Forbidden" (403) at link https://images.baoangiang.com.vn/image/fckeditor/upload/2024/20240213/images/15.jpg (from https://captreonuisam.com/cap-treo-nui-sam-phuc-vu-du-khach-xuyen-dem/)
+14:20:50	Error: 	"Forbidden" (403) at link https://images.baoangiang.com.vn/image/fckeditor/upload/2024/20240213/images/16.jpg (from https://captreonuisam.com/cap-treo-nui-sam-phuc-vu-du-khach-xuyen-dem/)
+14:20:50	Error: 	"Forbidden" (403) at link https://images.baoangiang.com.vn/image/fckeditor/upload/2024/20240213/images/17.jpg (from https://captreonuisam.com/cap-treo-nui-sam-phuc-vu-du-khach-xuyen-dem/)
+14:20:50	Error: 	"Forbidden" (403) at link https://images.baoangiang.com.vn/image/fckeditor/upload/2024/20240213/images/18.jpg (from https://captreonuisam.com/cap-treo-nui-sam-phuc-vu-du-khach-xuyen-dem/)
+14:20:50	Error: 	"Forbidden" (403) at link https://images.baoangiang.com.vn/image/fckeditor/upload/2024/20240213/images/19.jpg (from https://captreonuisam.com/cap-treo-nui-sam-phuc-vu-du-khach-xuyen-dem/)
+14:20:50	Error: 	"Forbidden" (403) at link https://images.baoangiang.com.vn/image/fckeditor/upload/2024/20240213/images/20.jpg (from https://captreonuisam.com/cap-treo-nui-sam-phuc-vu-du-khach-xuyen-dem/)
+14:20:50	Error: 	"Forbidden" (403) at link https://images.baoangiang.com.vn/image/fckeditor/upload/2024/20240213/images/21.jpg (from https://captreonuisam.com/cap-treo-nui-sam-phuc-vu-du-khach-xuyen-dem/)
+14:20:50	Error: 	"Forbidden" (403) at link https://images.baoangiang.com.vn/image/fckeditor/upload/2024/20240213/images/96edb287-b487-40c2-b3da-f126af33015e.jpg (from https://captreonuisam.com/cap-treo-nui-sam-phuc-vu-du-khach-xuyen-dem/)
+14:20:50	Error: 	"Forbidden" (403) at link https://images.baoangiang.com.vn/image/fckeditor/upload/2024/20240213/images/89445cfe-17fa-4d8f-b174-9e1c4ccd172e.jpg (from https://captreonuisam.com/cap-treo-nui-sam-phuc-vu-du-khach-xuyen-dem/)
+14:20:50	Error: 	"Forbidden" (403) at link https://images.baoangiang.com.vn/image/fckeditor/upload/2024/20240213/images/ff69d9a5-92c0-4098-81e6-c51c1a00eca0.jpg (from https://captreonuisam.com/cap-treo-nui-sam-phuc-vu-du-khach-xuyen-dem/)
+14:20:50	Error: 	"Forbidden" (403) at link https://images.baoangiang.com.vn/image/fckeditor/upload/2024/20240213/images/22.jpg (from https://captreonuisam.com/cap-treo-nui-sam-phuc-vu-du-khach-xuyen-dem/)
+14:20:50	Error: 	"Forbidden" (403) at link https://images.baoangiang.com.vn/image/fckeditor/upload/2024/20240213/images/23.jpg (from https://captreonuisam.com/cap-treo-nui-sam-phuc-vu-du-khach-xuyen-dem/)
+14:20:50	Error: 	"Forbidden" (403) at link https://images.baoangiang.com.vn/image/fckeditor/upload/2024/20240213/images/24.jpg (from https://captreonuisam.com/cap-treo-nui-sam-phuc-vu-du-khach-xuyen-dem/)
+14:20:50	Error: 	"Forbidden" (403) at link https://images.baoangiang.com.vn/image/fckeditor/upload/2024/20240213/images/25.jpg (from https://captreonuisam.com/cap-treo-nui-sam-phuc-vu-du-khach-xuyen-dem/)
+14:20:50	Error: 	"Forbidden" (403) at link https://images.baoangiang.com.vn/image/fckeditor/upload/2024/20240213/images/26.jpg (from https://captreonuisam.com/cap-treo-nui-sam-phuc-vu-du-khach-xuyen-dem/)
+14:20:50	Error: 	"Forbidden" (403) at link https://images.baoangiang.com.vn/image/fckeditor/upload/2024/20240213/images/27.jpg (from https://captreonuisam.com/cap-treo-nui-sam-phuc-vu-du-khach-xuyen-dem/)
+14:21:06	Warning: 	Moved Permanently for https://captreonuisam.com/author/admin/
+14:21:06	Warning: 	File has moved from https://captreonuisam.com/author/admin/ to https://captreonuisam.com
+14:21:30	Warning: 	Moved Permanently for https://captreonuisam.com/?p=2391
+14:21:30	Warning: 	File has moved from https://captreonuisam.com/?p=2391 to https://captreonuisam.com/ve-mien-phi-cap-treo-ba-chua-xu-nui-sam/
+14:21:30	Warning: 	Moved Permanently for https://captreonuisam.com/?p=1808
+14:21:30	Warning: 	File has moved from https://captreonuisam.com/?p=1808 to https://captreonuisam.com/dien-vien-tuyen-map-di-cap-treo-via-ba-chua-xu/
+14:21:30	Warning: 	Moved Permanently for https://captreonuisam.com/?p=1802
+14:21:30	Warning: 	File has moved from https://captreonuisam.com/?p=1802 to https://captreonuisam.com/ca-si-quach-tuan-du-di-cap-treo-vieng-ba-chua-xu/
+14:21:30	Warning: 	Moved Permanently for https://captreonuisam.com/?p=2409
+14:21:30	Warning: 	File has moved from https://captreonuisam.com/?p=2409 to https://captreonuisam.com/xem-loto-mien-tay-ngam-chau-doc-lung-linh-ve-dem-tu-cap-treo-nui-sam-an-giang/
+14:21:30	Warning: 	Moved Permanently for https://captreonuisam.com/?p=1618
+14:21:30	Warning: 	File has moved from https://captreonuisam.com/?p=1618 to https://captreonuisam.com/cap-treo-nui-sam-hut-khach-dip-tet/
+14:21:30	Warning: 	Moved Permanently for https://captreonuisam.com/?p=1478
+14:21:30	Warning: 	File has moved from https://captreonuisam.com/?p=1478 to https://captreonuisam.com/khu-du-lich-cap-treo-nui-sam-cuoi-may-tham-quan-noi-ba-ngu/
+14:21:30	Warning: 	Moved Permanently for https://captreonuisam.com/?p=1476
+14:21:30	Warning: 	File has moved from https://captreonuisam.com/?p=1476 to https://captreonuisam.com/khu-du-lich-cap-treo-nui-sam/
+14:21:30	Warning: 	Moved Permanently for https://captreonuisam.com/?p=3080
+14:21:30	Warning: 	File has moved from https://captreonuisam.com/?p=3080 to https://captreonuisam.com/product/tinh-dau-sa-java/
+14:22:05	Warning: 	Moved Permanently for https://captreonuisam.com/?p=3039
+14:22:05	Warning: 	File has moved from https://captreonuisam.com/?p=3039 to https://captreonuisam.com/product/tinh-dau-hoi-dai-hoi/
+14:22:41	Warning: 	Moved Permanently for https://captreonuisam.com/?p=3027
+14:22:41	Warning: 	File has moved from https://captreonuisam.com/?p=3027 to https://captreonuisam.com/product/tinh-dau-hoa-lavender-hoa-oai-huong/
+14:23:38	Warning: 	Moved Permanently for https://captreonuisam.com/?p=2737
+14:23:38	Warning: 	File has moved from https://captreonuisam.com/?p=2737 to https://captreonuisam.com/product/tinh-chat-hong-sam-everytime-balance/
+14:24:20	Warning: 	Moved Permanently for https://captreonuisam.com/?p=2728
+14:24:20	Warning: 	File has moved from https://captreonuisam.com/?p=2728 to https://captreonuisam.com/product/tinh-chat-hong-sam-everytime-original/
+14:24:35	Warning: 	Moved Permanently for https://captreonuisam.com/?p=3022
+14:24:35	Warning: 	File has moved from https://captreonuisam.com/?p=3022 to https://captreonuisam.com/product/tinh-dau-khuynh-diep/
+14:24:54	Warning: 	Moved Permanently for https://captreonuisam.com/?p=2768
+14:24:54	Warning: 	File has moved from https://captreonuisam.com/?p=2768 to https://captreonuisam.com/product/tinh-dau-que/
+14:25:17	Warning: 	Moved Permanently for https://captreonuisam.com/?p=3145
+14:25:17	Warning: 	File has moved from https://captreonuisam.com/?p=3145 to https://captreonuisam.com/product/tinh-dau-chanh-thien-nhien-nguyen-chat/
+14:25:39	Warning: 	Moved Permanently for https://captreonuisam.com/?p=3090
+14:25:39	Warning: 	File has moved from https://captreonuisam.com/?p=3090 to https://captreonuisam.com/product/tinh-dau-vo-cam/
+14:26:00	Warning: 	Moved Permanently for https://captreonuisam.com/?p=3100
+14:26:00	Warning: 	File has moved from https://captreonuisam.com/?p=3100 to https://captreonuisam.com/product/tinh-dau-huong-thao-thien-nhien-nguyen-chat/
+14:26:23	Warning: 	Moved Permanently for https://captreonuisam.com/?p=3156
+14:26:23	Warning: 	File has moved from https://captreonuisam.com/?p=3156 to https://captreonuisam.com/product/tinh-dau-hoa-mang-tang-thien-nhien/
+14:26:45	Warning: 	Moved Permanently for https://captreonuisam.com/?p=3003
+14:26:45	Warning: 	File has moved from https://captreonuisam.com/?p=3003 to https://captreonuisam.com/product/tinh-dau-bac-ha/
+14:27:06	Warning: 	Moved Permanently for https://captreonuisam.com/?p=3095
+14:27:06	Warning: 	File has moved from https://captreonuisam.com/?p=3095 to https://captreonuisam.com/product/tinh-dau-hoa-hong-thien-nhien-nguyen-chat/
+14:27:27	Warning: 	Moved Permanently for https://captreonuisam.com/?p=3140
+14:27:27	Warning: 	File has moved from https://captreonuisam.com/?p=3140 to https://captreonuisam.com/product/tinh-dau-tram-tra-thien-nhien-nguyen-chat/
+14:27:47	Warning: 	Moved Permanently for https://captreonuisam.com/?p=3150
+14:27:47	Warning: 	File has moved from https://captreonuisam.com/?p=3150 to https://captreonuisam.com/product/tinh-dau-hoa-danh-danh-thien-nhien-nguyen-chat/
+14:28:08	Warning: 	Moved Permanently for https://captreonuisam.com/?p=1509
+14:28:08	Warning: 	File has moved from https://captreonuisam.com/?p=1509 to https://captreonuisam.com/dieu-khoan-su-dung/
+14:28:13	Warning: 	Moved Permanently for https://captreonuisam.com/?p=1515
+14:28:13	Warning: 	File has moved from https://captreonuisam.com/?p=1515 to https://captreonuisam.com/chinh-sach-bao-mat/
+14:28:17	Warning: 	Moved Permanently for https://captreonuisam.com/?p=3574
+14:28:17	Warning: 	File has moved from https://captreonuisam.com/?p=3574 to https://captreonuisam.com/chinh-sach-thanh-toan/
+14:28:21	Warning: 	Moved Permanently for https://captreonuisam.com/?p=3578
+14:28:21	Warning: 	File has moved from https://captreonuisam.com/?p=3578 to https://captreonuisam.com/chinh-sach-van-chuyen/
+14:28:28	Warning: 	Moved Permanently for https://captreonuisam.com/?p=3583
+14:28:28	Warning: 	File has moved from https://captreonuisam.com/?p=3583 to https://captreonuisam.com/chinh-sach-kiem-hang-va-huy-doi-tra/
+14:28:34	Warning: 	Moved Permanently for https://captreonuisam.com/chrome-extension://
+14:28:34	Warning: 	Redirected link is identical because of 'URL Hack' option: https://captreonuisam.com/chrome-extension:// and https://captreonuisam.com/chrome-extension:/
+14:28:34	Warning: 	File has moved from https://captreonuisam.com/chrome-extension:// to https://captreonuisam.com/chrome-extension:/
+14:28:40	Error: 	"Not Found" (404) at link https://captreonuisam.com/ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/ (from https://connect.facebook.net/vi_VN/sdk/xfbml.customerchat.js)
+14:28:46	Error: 	"Not Found" (404) at link https://captreonuisam.com/^([^:/? (from https://connect.facebook.net/vi_VN/sdk/xfbml.customerchat.js)
+14:28:51	Error: 	"Not Found" (404) at link https://captreonuisam.com/GET (from https://connect.facebook.net/vi_VN/sdk/xfbml.customerchat.js)
+14:28:57	Error: 	"Not Found" (404) at link https://captreonuisam.com/restserver.php (from https://connect.facebook.net/vi_VN/sdk/xfbml.customerchat.js)
+14:29:03	Error: 	"Not Found" (404) at link https://captreonuisam.com/dialog/ (from https://connect.facebook.net/vi_VN/sdk/xfbml.customerchat.js)
+14:29:05	Error: 	"Not Found" (404) at link https://captreonuisam.com/LiveChatEvent/ (from https://connect.facebook.net/vi_VN/sdk/xfbml.customerchat.js)
+14:29:09	Error: 	"Not Found" (404) at link https://captreonuisam.com/rsrc.php/ (from https://connect.facebook.net/vi_VN/sdk/xfbml.customerchat.js)
+14:29:12	Warning: 	Moved Permanently for https://captreonuisam.com/?p=3532
+14:29:12	Warning: 	File has moved from https://captreonuisam.com/?p=3532 to https://captreonuisam.com/huyen-bi-nam-ong-the-ngu-long-tran-phuc-vung-that-son/
+14:30:32	Warning: 	Moved Permanently for https://captreonuisam.com/?p=3426
+14:30:32	Warning: 	File has moved from https://captreonuisam.com/?p=3426 to https://captreonuisam.com/danh-tuong-thoai-ngoc-hau/
+14:30:32	Warning: 	Moved Permanently for https://captreonuisam.com/?p=3526
+14:30:32	Warning: 	File has moved from https://captreonuisam.com/?p=3526 to https://captreonuisam.com/vi-dao-si-tai-ba-da-ho-diet-xa-tren-dinh-cam-son/
+14:30:32	Warning: 	Moved Permanently for https://captreonuisam.com/?p=3512
+14:30:32	Warning: 	File has moved from https://captreonuisam.com/?p=3512 to https://captreonuisam.com/huyen-bi-nhung-cau-chuyen-ve-nui-cam/
+14:30:32	Warning: 	Moved Permanently for https://captreonuisam.com/?p=3507
+14:30:32	Warning: 	File has moved from https://captreonuisam.com/?p=3507 to https://captreonuisam.com/cau-chuyen-tam-linh-doi-tinh-nhan-tai-sinh-tai-nui-cam/
+14:30:32	Warning: 	Moved Permanently for https://captreonuisam.com/?p=3503
+14:30:32	Warning: 	File has moved from https://captreonuisam.com/?p=3503 to https://captreonuisam.com/nhung-chuyen-ke-ly-ky-ve-ran-khong-lo-o-nui-cam/
+14:30:32	Warning: 	Moved Permanently for https://captreonuisam.com/?p=3435
+14:30:32	Warning: 	File has moved from https://captreonuisam.com/?p=3435 to https://captreonuisam.com/nhung-cau-chuyen-ve-su-linh-ung-cua-thoai-ngoc-hau/
+14:30:40	Warning: 	Moved Permanently for https://captreonuisam.com/shop/?paged=2&orderby=menu_order
+14:30:40	Warning: 	File has moved from https://captreonuisam.com/shop/?paged=2&orderby=menu_order to https://captreonuisam.com/shop/page/2/?orderby=menu_order
+14:30:48	Warning: 	Moved Permanently for https://captreonuisam.com/shop/?paged=2&orderby=popularity
+14:30:48	Warning: 	File has moved from https://captreonuisam.com/shop/?paged=2&orderby=popularity to https://captreonuisam.com/shop/page/2/?orderby=popularity
+14:30:52	Warning: 	Moved Permanently for https://captreonuisam.com/shop/?paged=2&orderby=rating
+14:30:52	Warning: 	File has moved from https://captreonuisam.com/shop/?paged=2&orderby=rating to https://captreonuisam.com/shop/page/2/?orderby=rating
+14:30:55	Warning: 	Moved Permanently for https://captreonuisam.com/shop/?paged=2&orderby=date
+14:30:55	Warning: 	File has moved from https://captreonuisam.com/shop/?paged=2&orderby=date to https://captreonuisam.com/shop/page/2/?orderby=date
+14:30:59	Warning: 	Moved Permanently for https://captreonuisam.com/shop/?paged=2&orderby=price
+14:30:59	Warning: 	File has moved from https://captreonuisam.com/shop/?paged=2&orderby=price to https://captreonuisam.com/shop/page/2/?orderby=price
+14:30:59	Warning: 	Moved Permanently for https://captreonuisam.com/shop/?paged=2&orderby=price-desc
+14:30:59	Warning: 	File has moved from https://captreonuisam.com/shop/?paged=2&orderby=price-desc to https://captreonuisam.com/shop/page/2/?orderby=price-desc
+14:32:37	Warning: 	Moved Permanently for https://captreonuisam.com/?p=3687
+14:32:37	Warning: 	File has moved from https://captreonuisam.com/?p=3687 to https://captreonuisam.com/product/mua-5-tang-1-nano-pharmacy-sale-lon-hong-sam-kgc/
+14:33:06	Warning: 	Moved Permanently for https://captreonuisam.com/?p=3362
+14:33:06	Warning: 	File has moved from https://captreonuisam.com/?p=3362 to https://captreonuisam.com/khoi-dong-giai-chay-online-an-giang-dau-chan-huyen-bi-2/
+14:33:06	Warning: 	Moved Permanently for https://captreonuisam.com/?p=3365
+14:33:06	Warning: 	File has moved from https://captreonuisam.com/?p=3365 to https://captreonuisam.com/khoi-dong-giai-chay-online-an-giang-dau-chan-huyen-bi/
+14:33:06	Warning: 	Moved Permanently for https://captreonuisam.com/?p=2983
+14:33:06	Warning: 	File has moved from https://captreonuisam.com/?p=2983 to https://captreonuisam.com/hoi-cho-dem-tai-khu-du-lich-cap-treo-nui-sam/
+14:33:19	Warning: 	Moved Permanently for https://captreonuisam.com/?p=3085
+14:33:19	Warning: 	File has moved from https://captreonuisam.com/?p=3085 to https://captreonuisam.com/product/tinh-dau-vo-buoi/
+14:38:02	Warning: 	Moved Permanently for https://captreonuisam.com/?p=3498
+14:38:02	Warning: 	File has moved from https://captreonuisam.com/?p=3498 to https://captreonuisam.com/nhung-chuyen-ly-ky-ve-ong-ho-o-vung-that-son/
+14:38:02	Warning: 	Moved Permanently for https://captreonuisam.com/?p=3495
+14:38:02	Warning: 	File has moved from https://captreonuisam.com/?p=3495 to https://captreonuisam.com/huyen-thoai-that-son-va-vi-dao-si-cuoi-cung/
+14:38:38	Warning: 	Moved Permanently for https://captreonuisam.com/?p=2673
+14:38:38	Warning: 	File has moved from https://captreonuisam.com/?p=2673 to https://captreonuisam.com/cart/
+14:38:44	Warning: 	Moved Permanently for https://captreonuisam.com/product-category/tinh-dau/?paged=2&orderby=menu_order
+14:38:44	Warning: 	File has moved from https://captreonuisam.com/product-category/tinh-dau/?paged=2&orderby=menu_order to https://captreonuisam.com/product-category/tinh-dau/page/2/?orderby=menu_order
+14:38:44	Warning: 	Moved Permanently for https://captreonuisam.com/product-category/tinh-dau/?paged=2&orderby=popularity
+14:38:44	Warning: 	File has moved from https://captreonuisam.com/product-category/tinh-dau/?paged=2&orderby=popularity to https://captreonuisam.com/product-category/tinh-dau/page/2/?orderby=popularity
+14:38:44	Warning: 	Moved Permanently for https://captreonuisam.com/product-category/tinh-dau/?paged=2&orderby=rating
+14:38:44	Warning: 	File has moved from https://captreonuisam.com/product-category/tinh-dau/?paged=2&orderby=rating to https://captreonuisam.com/product-category/tinh-dau/page/2/?orderby=rating
+14:38:44	Warning: 	Moved Permanently for https://captreonuisam.com/product-category/tinh-dau/?paged=2&orderby=date
+14:38:44	Warning: 	File has moved from https://captreonuisam.com/product-category/tinh-dau/?paged=2&orderby=date to https://captreonuisam.com/product-category/tinh-dau/page/2/?orderby=date
+14:38:45	Warning: 	Moved Permanently for https://captreonuisam.com/product-category/tinh-dau/?paged=2&orderby=price
+14:38:45	Warning: 	File has moved from https://captreonuisam.com/product-category/tinh-dau/?paged=2&orderby=price to https://captreonuisam.com/product-category/tinh-dau/page/2/?orderby=price
+14:38:45	Warning: 	Moved Permanently for https://captreonuisam.com/product-category/tinh-dau/?paged=2&orderby=price-desc
+14:38:45	Warning: 	File has moved from https://captreonuisam.com/product-category/tinh-dau/?paged=2&orderby=price-desc to https://captreonuisam.com/product-category/tinh-dau/page/2/?orderby=price-desc
+14:38:48	Warning: 	Moved Permanently for https://captreonuisam.com/?p=2357
+14:38:48	Warning: 	File has moved from https://captreonuisam.com/?p=2357 to https://captreonuisam.com/ca-sy-quach-tuan-du-hanh-trinh-cap-treo-nui-sam/
+14:39:26	Warning: 	Moved Permanently for https://captreonuisam.com/?p=3469
+14:39:26	Warning: 	File has moved from https://captreonuisam.com/?p=3469 to https://captreonuisam.com/chuyen-ve-chiec-ao-nhung-cua-ba-chua-xu-nui-sam/
+14:39:26	Warning: 	Moved Permanently for https://captreonuisam.com/?p=3464
+14:39:26	Warning: 	File has moved from https://captreonuisam.com/?p=3464 to https://captreonuisam.com/giai-thoai-ky-bi-ve-ngoi-mo-co-co-nam-chau-doc/
+14:39:26	Warning: 	Moved Permanently for https://captreonuisam.com/?p=3457
+14:39:26	Warning: 	File has moved from https://captreonuisam.com/?p=3457 to https://captreonuisam.com/ly-ky-su-tich-ve-ba-chua-xu-nui-sam-o-vung-chau-doc-an-giang/
+14:39:26	Warning: 	Moved Permanently for https://captreonuisam.com/?p=3454
+14:39:26	Warning: 	File has moved from https://captreonuisam.com/?p=3454 to https://captreonuisam.com/nhung-giai-thoai-bi-an-ve-mieu-ba-chua-xu-o-vung-that-son-linh-thieng/
+14:39:34	Warning: 	Found for https://captreonuisam.com/checkout/
+14:39:34	Warning: 	File has moved from https://captreonuisam.com/checkout/ to https://captreonuisam.com/cart/
+
+HTTrack Website Copier/3.49-2 mirror complete in 40 minutes 43 seconds : 2243 links scanned, 2069 files written (375268697 bytes overall) [307593059 bytes received at 125907 bytes/sec], 93528119 bytes transferred using HTTP compression in 694 files, ratio 25%, 14.8 requests per connection
+(80 errors, 187 warnings, 0 messages)
